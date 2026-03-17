@@ -93,7 +93,7 @@ cap.release()
 cv2.destroyAllWindows()
 
 ## PROGRAM
-```
+```python
 import cv2
 import imutils
 
